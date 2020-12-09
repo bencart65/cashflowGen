@@ -7345,19 +7345,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/johnwitte/.nuget/packages/": {}
+    "C:\\Users\\mcse\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnwitte/Documents/CashflowApi/CashflowApi.csproj",
+      "projectUniqueName": "C:\\Users\\mcse\\Desktop\\MIACAnalytics\\cashflow-calculator\\cashflowGen\\CashflowApi.csproj",
       "projectName": "CashflowApi",
-      "projectPath": "/Users/johnwitte/Documents/CashflowApi/CashflowApi.csproj",
-      "packagesPath": "/Users/johnwitte/.nuget/packages/",
-      "outputPath": "/Users/johnwitte/Documents/CashflowApi/obj/",
+      "projectPath": "C:\\Users\\mcse\\Desktop\\MIACAnalytics\\cashflow-calculator\\cashflowGen\\CashflowApi.csproj",
+      "packagesPath": "C:\\Users\\mcse\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mcse\\Desktop\\MIACAnalytics\\cashflow-calculator\\cashflowGen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/johnwitte/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mcse\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -7436,7 +7436,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
